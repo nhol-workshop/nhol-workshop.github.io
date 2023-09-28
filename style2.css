@@ -2,7 +2,8 @@
 
 /* ページ全体の背景色とフォントスタイルを設定 */
 body {
-    background-color: #b3b0b0;
+    /*background-color: #b3b0b0; */
+    background-color: #ffffff;
     font-family: 'Helvetica Neue', Arial, sans-serif;
     /* margin: 0; */
     /* padding: 0; */

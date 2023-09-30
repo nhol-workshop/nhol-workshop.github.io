@@ -25,6 +25,13 @@ h2 {
     margin-bottom: 10px;
 }
 
+h3 {
+    color: #0c315f;
+
+}
+
+
+
 /* リストのスタイルを設定 */
 ul {
     list-style-type: disc;
